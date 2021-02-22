@@ -1,0 +1,15 @@
+---
+title: "About"
+author: "Wendy Erb"
+date: "2/22/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Us
+
+We're making a website together - yay!
+
