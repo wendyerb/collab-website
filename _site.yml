@@ -1,6 +1,6 @@
 name: "our-website"
 navbar:
-  title: "Our Collaborative Website"
+  title: "Wendy and Ann's Website"
   left:
     - text: "Cars"
       href: index.html
